@@ -69,7 +69,7 @@ const AccessDenied = () => (
     <div className="max-w-md text-center space-y-3">
       <h1 className="text-2xl font-semibold">Access Restricted</h1>
       <p className="text-muted-foreground">
-        Your current role does not have access to any telemetry state in this
+        Your current    role does not have access to any telemetry state in this
         environment.
       </p>
     </div>
